@@ -82,7 +82,7 @@ domain("e6ai.net") {
 
     /* Footer */
     #a-home::before {
-        content: "Mascot by post - #4866946";
+        content: "Mascot by Chizi - post #4866946";
         position: absolute !important;
         inset: auto auto 5px 1rem !important;
         font-size: 80% !important;
